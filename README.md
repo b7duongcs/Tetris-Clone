@@ -1,2 +1,1 @@
-# A tetris clone that I created in my grade 11 cs class.
-# Currently unfinished and not functioning properly
+# A tetris clone that I started in my grade 11 cs class.
